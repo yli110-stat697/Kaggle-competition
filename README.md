@@ -1,3 +1,3 @@
 # Kaggle-competition
 
-This repo served to record my work for the Kaggle competitions
+This repo is intended to record my Kaggle competitions practice, as I am trying to build a strong portfolio for the job market.
